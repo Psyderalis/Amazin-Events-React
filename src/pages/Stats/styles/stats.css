@@ -1,0 +1,11 @@
+.stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stats-container th {
+    background-color: aquamarine;
+    color: black;
+    border-color: black;
+}

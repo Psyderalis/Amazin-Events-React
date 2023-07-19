@@ -1,0 +1,14 @@
+.nav-bar {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.links-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 15px 10px;
+    background-color: black;
+}

@@ -1,0 +1,10 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home h2 {
+    text-align: center;
+    color: pink;
+}

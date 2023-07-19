@@ -1,0 +1,33 @@
+.search-bar-container {
+    text-align: center;
+    color: greenyellow;
+}
+
+.search-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}
+
+.search-bar input {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 5px;
+}
+
+.search-bar button {
+    border-radius: 15px;
+    padding: 10px;
+    color: rgb(23, 23, 24);
+    background-color: aqua;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.search-bar button:hover {
+    cursor: pointer;
+}
